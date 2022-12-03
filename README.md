@@ -8,6 +8,7 @@ A collection of vulnerable code examples structured due to the latest OWASP Top-
   - Java  
   - Go
   - Python
+  - PHP
 
 ## Structure
 
