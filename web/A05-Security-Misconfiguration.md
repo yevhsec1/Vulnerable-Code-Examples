@@ -1,4 +1,4 @@
-# A01 Broken Access Control
+# A05 Security Misconfiguration
 
 The application might be vulnerable if the application is:
 
